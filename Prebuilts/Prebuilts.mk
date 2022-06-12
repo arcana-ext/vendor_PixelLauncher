@@ -26,8 +26,6 @@ PRODUCT_SYSTEM_PROPERTIES += \
 # GoogleCamera-Parrot
 PRODUCT_PACKAGES += \
    NexusLauncherReleaseMod \
-   PixelLauncherMods \
-   PixelLauncherModsOverlay \
    PixelRecentsProviderMod \
    PixelThemesStubMod \
    QuickAccessWalletMod \
